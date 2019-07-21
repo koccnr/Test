@@ -1,3 +1,0 @@
-test basladi
-
-bu 123
